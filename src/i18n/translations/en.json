@@ -1,0 +1,31 @@
+{
+  "setting": "Settings",
+  "changeLanguage": "Change Language",
+  "mode": "Mode",
+  "nightlife": "Nightlife",
+  "event": "Event",
+  "friends": "Friends",
+  "profile": "Profile",
+  "order": "Order",
+  "searchParty": "Search party",
+  "newestEvent": "Newest event",
+  "findBestPlace": "Find best place",
+  "scanTable": {
+    "header": "Scan",
+    "title": "Scan on table",
+    "instuction": "Check your table or asking waiter to give you a QR Code, you can start order by scanning.",
+    "action": "Gotcha"
+  },
+  "orderBooking": {
+    "searchDrink": "Search spirit"
+  },
+  "addToCart": {
+    "sugar": "Sugar",
+    "ice": "Ice",
+    "free": "Free",
+    "total": "Total",
+    "action": "Add to cart",
+    "actionViewCart": "View cart"
+  },
+  "checkout": "Checkout"
+}

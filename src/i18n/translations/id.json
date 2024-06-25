@@ -1,0 +1,31 @@
+{
+  "setting": "Pengaturan",
+  "changeLanguage": "Ganti Bahasa",
+  "mode": "Mode",
+  "nightlife": "Nightlife",
+  "event": "Acara",
+  "friends": "Teman",
+  "profile": "Profil",
+  "order": "Pesanan",
+  "searchParty": "Cari pesta",
+  "newestEvent": "Acara Terbaru",
+  "findBestPlace": "Temukan Tempat Terbaik",
+  "scanTable": {
+    "header": "Pindai",
+    "title": "Pindai di Meja",
+    "instuction": "Periksa meja Anda atau minta pelayan untuk memberikan Kode QR, Anda dapat mulai memesan dengan memindai.",
+    "action": "Mengerti"
+  },
+  "orderBooking": {
+    "searchDrink": "Cari spirit"
+  },
+  "addToCart": {
+    "sugar": "Gula",
+    "ice": "Es",
+    "free": "Gratis",
+    "total": "Total",
+    "action": "Tambah ke keranjang",
+    "actionViewCart": "Lihat ke keranjang"
+  },
+  "checkout": "Pembayaran"
+}
